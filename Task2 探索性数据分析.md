@@ -4,7 +4,8 @@
 分析库:pandas_profiling
 ```python
 df = pd.read_csv(r'\OneDrive\桌面\used_car_train_20200313.csv',sep = ' ')
-pandas_profiling.ProfileReport(df) ```
+pandas_profiling.ProfileReport(df) 
+```
 
 ##  观察数据
 ```
